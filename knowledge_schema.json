@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "active_attributes": {
+    "composition": "Состав набора (персонажи, террейн, аксессуары)",
+    "visual_style": "Стилистика (grimdark, high fantasy, sci-fi)",
+    "technical_specs": "Масштаб, размер базы, высота"
+  },
+  "discovery_mode": {
+    "enabled": true,
+    "instruction": "Если в запросах пользователей часто встречается параметр, которого нет выше (например, тип оружия или вид брони), зафиксируй это в поле ai_recommendations как 'new_feature_candidate'"
+  }
+}
